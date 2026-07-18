@@ -2,6 +2,8 @@
 
 ### SQL Business Case Study
 
+**Tools Used:** SQLite • SQL • Python • Pandas • Matplotlib • Git • GitHub
+
 SQL business case study analyzing Amazon Prime Video's content catalog to uncover insights into content distribution, ratings, genres, and global trends.
 
 | Metric | Value |
